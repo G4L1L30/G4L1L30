@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Eu sou o João Vitor Sabino
+## Bem Vindo ao meu github! me chamo João Vitor, sou formado em Ciência da Computação 
 <div align="center">
   <a href="https://github.com/G4L1L30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G4L1L30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4L1L30&layout=compact&langs_count=9&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G4L1L30&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4L1L30&layout=compact&langs_count=9&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
