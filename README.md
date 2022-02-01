@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Bem Vindo ao meu github! 
-## Sou o João Vitor, Ciêntista da Computação, entusiasta em drones e inteligencia artificial;
+
+## Bem Vindo ao meu github! Sou o João Vitor, Ciêntista da Computação, entusiasta em drones e inteligencia artificial.
+
+- 🔭 Atualmente estou trabalhando na empresa Play Sistemas Inteligentes
+- 🌱 Estou aprendendo o desenvolvimento e funcionamento de Hardware embarcados, com inteligência Artificial
+- 📫 Como chegar até mim: https://www.linkedin.com/in/jo%C3%A3o-vitor-sabino-g4l1l30/
+
 <div align="center">
   <a href="https://github.com/G4L1L30">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G4L1L30&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
