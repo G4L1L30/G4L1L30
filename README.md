@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Bem Vindo ao meu github! Sou o João Vitor, Ciêntista da Computação, entusiasta em drones e inteligencia artificial.
 
 - 🔭 Atualmente estou trabalhando na empresa Security Segurança e Serviços.
-- 🌱 Estou aprendendo o desenvolvimento e funcionamento de Hardware embarcados, com inteligência Artificial
+- 🌱 Desenvolvimento .Net, Entity Framework, SQL Server, Oracle, C#, Azure DevOps
 - 📫 Como chegar até mim: https://www.linkedin.com/in/jo%C3%A3o-vitor-sabino-g4l1l30/
 
 <div align="center">
